@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "sphinx-autobuild . _build/html",
+    "postinstall": "make html",
+    "test": "make html"
+  }
+}
