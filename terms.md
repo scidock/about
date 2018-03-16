@@ -77,9 +77,9 @@ LLC will have no obligation to provide a refund of any amounts previously
 paid.
 
 ### 6. Trademarks
-LaTeX Base, latexbase.com, the latexbase.com logo, and all other trademarks,
-service marks, graphics, and logos used in connection with LaTeX Base, or the
-Service are trademarks or registered trademarks of SciDock LLC or SciDock LLC's
+LaTeX Base, [latexbase.com](https://latexbase.com), the latexbase.com logo, and all
+other trademarks, service marks, graphics, and logos used in connection with LaTeX Base,
+or the Service are trademarks or registered trademarks of SciDock LLC or SciDock LLC's
 licensors. Other trademarks, service marks, graphics and logos used in
 connection with the Service may be the trademarks of other third parties.
 Your use of the Service grants you no right or license to reproduce or
