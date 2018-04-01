@@ -44,6 +44,10 @@ function removeRtdPro() {
   removeElement('div.rtd-pro');
 }
 
+function removeEthicalRtd() {
+  removeElement('div.ethical-rtd');
+}
+
 function setPageTitle() {
   const title = document.title;
   const separator = ' — ';
@@ -58,6 +62,7 @@ function setPageTitle() {
     fixHomeLink2,
     removeGitHubEditing,
     removeRtdPro,
+    removeEthicalRtd,
     setPageTitle,
   ].forEach(function(tweak) {
     setInterval(tweak, 50);
