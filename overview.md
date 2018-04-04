@@ -69,7 +69,8 @@ which are discussed in
 
 ### Offline mode caveats
 
-- Offline mode is currently only available for Chrome 46+ and Opera 33+.
+- Offline mode is currently only available for Chrome 46+, Opera 33+, and
+  Firefox 59+.
 - The compiler will fail if you try to use a new package while offline.
   That means you can only use packages offline that you've previously
   used while online.
