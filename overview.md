@@ -24,6 +24,7 @@ A number of useful, common LaTeX packages can be included with the `\usepackage`
 - [fix2col](https://ctan.org/pkg/fix2col)
 - [geometry](https://ctan.org/pkg/geometry)
 - [graphics](https://ctan.org/pkg/graphics)
+- [graphicx](https://ctan.org/pkg/graphics)
 - [hyperref](https://ctan.org/pkg/hyperref)
 - [mflogo](https://ctan.org/pkg/mflogo)
 - [natbib](https://ctan.org/pkg/natbib)
