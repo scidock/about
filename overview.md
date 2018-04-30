@@ -36,7 +36,6 @@ A number of useful, common LaTeX packages can be included with the `\usepackage`
 - [oberdiek](https://ctan.org/pkg/oberdiek)
 - [pdtex-def](https://ctan.org/pkg/pdftex-def)
 - [pslatex](https://ctan.org/pkg/pslatex)
-- [psnfss](https://ctan.org/pkg/psnfss)
 - [pspicture](https://ctan.org/pkg/pspicture)
 - [url](https://ctan.org/pkg/url)
 
