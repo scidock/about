@@ -18,7 +18,6 @@ A number of useful, common LaTeX packages can be included with the `\usepackage`
 - [amsfonts](https://ctan.org/pkg/amsfonts)
 - [amsmath](https://ctan.org/pkg/amsmath)
 - [babelib](https://ctan.org/pkg/babelbib)
-- [carlisle](https://ctan.org/pkg/carlisle)
 - [colortbl](https://ctan.org/pkg/colortbl)
 - [fancyhdr](https://ctan.org/pkg/fancyhdr)
 - [fix2col](https://ctan.org/pkg/fix2col)
